@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-image: url("./bg1.jpg");
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+nav {
+    background-color: grey;
+    margin: 25px;
+}
+
+nav h3 {
+    text-align: center;
+    font-weight: bold;
+    padding: 25px;
+}
+
+nav li {
+    display: inline-block;
+    width: 23%;
+    padding: 20px;
+}
+
+.intro {
+    background-color: grey;
+    color:goldenrod;
+    margin: 25px;
+}
+
+.reasons {
+    width: 100%;
+    padding: 50px 0;
+    
+}
+
+.reasons h3 {
+    text-align: center;
+    font-weight: bold;
+    color: azure;
+}
+
+.reasons ul {
+    list-style-type: square;
+}
+
+.reasons li {
+    padding-left: 25px;
+    color: beige;
+}
+
+.about {
+    background-color: aliceblue;
+    padding: 25px;
+    margin: 25px;
+    opacity: 0.5;
+    font-weight: 900;
+}
+
+.facebook {
+    width: 25px;
+    height: 25px;
+}
+
+.instagram {
+    width: 25px;
+    height: 25px;
+}
+
+.linkedin {
+    width: 25px;
+    height: 25px;
+}
